@@ -1,7 +1,7 @@
 # Phần mềm Quản lý cửa hàng Giày
 Website của hàng sách làm bằng ngôn ngữ C# là chủ yếu
 
-![Language](https://img.shields.io/badge/Language-C#-gray.svg)
+![Language](https://img.shields.io/badge/Language-Csharp-gray.svg)
 ![Language](https://img.shields.io/badge/Team-SGU-cyan.svg)
 
 ## Team
