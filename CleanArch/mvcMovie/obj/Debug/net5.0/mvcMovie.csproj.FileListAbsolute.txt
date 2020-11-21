@@ -1,0 +1,194 @@
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\appsettings.json
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.exe
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.deps.json
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.runtimeconfig.json
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.runtimeconfig.dev.json
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\ref\mvcMovie.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.Views.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.Views.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Application.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Domain.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Application.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\bin\Debug\net5.0\Domain.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.csprojAssemblyReference.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.AssemblyInfoInputs.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.AssemblyInfo.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorAssemblyInfo.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorAssemblyInfo.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\staticwebassets\mvcMovie.StaticWebAssets.Manifest.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\staticwebassets\mvcMovie.StaticWebAssets.xml
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\scopedcss\bundle\mvcMovie.styles.css
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.TagHelpers.input.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.TagHelpers.output.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorCoreGenerate.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Delete.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Details.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorTargetAssemblyInfo.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorTargetAssemblyInfo.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.Views.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.csproj.CopyComplete
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\ref\mvcMovie.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.genruntimeconfig.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\appsettings.json
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.exe
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.deps.json
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.runtimeconfig.json
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.runtimeconfig.dev.json
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\ref\mvcMovie.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.Views.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\mvcMovie.Views.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Application.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Domain.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Application.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\bin\Debug\net5.0\Domain.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.csprojAssemblyReference.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.AssemblyInfoInputs.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.AssemblyInfo.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorAssemblyInfo.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorAssemblyInfo.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\staticwebassets\mvcMovie.StaticWebAssets.Manifest.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\staticwebassets\mvcMovie.StaticWebAssets.xml
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\scopedcss\bundle\mvcMovie.styles.css
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.TagHelpers.input.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.TagHelpers.output.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorCoreGenerate.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Delete.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Details.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorTargetAssemblyInfo.cache
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorTargetAssemblyInfo.cs
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.Views.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.csproj.CopyComplete
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\ref\mvcMovie.dll
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.genruntimeconfig.cache

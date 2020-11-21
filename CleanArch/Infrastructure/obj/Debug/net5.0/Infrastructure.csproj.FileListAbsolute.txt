@@ -1,0 +1,30 @@
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\mvcMovie7 --Clean Architecture\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\HiamKaito\Downloads\CleanArch\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

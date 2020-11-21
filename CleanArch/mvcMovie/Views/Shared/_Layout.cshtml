@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>@ViewData["Title"]</title>
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">       
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+</head>
+
+
+<body>
+    <header>
+        
+<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+	<div class="container-fluid">
+		<a>
+			<img src="~/images/th.jpg" height="50">
+		</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" 
+			data-target="#navbarResponsive">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarResponsive">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+					<a class="nav-link active" asp-action="Index" asp-controller="Home">Trang chủ</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" asp-action="Index" asp-controller="Movie">Sách</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Giỏ hàng</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">Tài khoản</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+        @* <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white box-shadow border-bottom mb-3">
+            <div class="container">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-action="Index" asp-controller="Home">Home</a>
+                    </li>
+                    <li>
+                        <a class="nav-link text-dark" asp-action="Index" asp-controller="Movie">Movie</a>
+                    </li>
+                </ul>
+            </div>
+        </nav> *@
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+<div class="container-fluid padding">	
+		<div class="row text-center">
+				<div class="col-md-4">
+					<hr class="light">
+				<h5>Liên hệ</h5>
+					<hr class="light">
+					<p>111-222-3333</p>
+					<p>mymail@gmail.com</p>
+					<p> Quận 3, TP.HCM, Vietnam</p>
+				</div>
+				<div class="col-md-4">				
+					<hr class="light">
+					<h5>Thời gian đóng mở cửa</h5>
+					<hr class="light">
+					<p>Monday-Friday: 8am - 5pm</p>
+					<p>Weekend: 8am - 12am</p>
+				</div>
+				<div class="col-md-4">				
+					<hr class="light">
+					<h5>Dịch vụ</h5>
+					<hr class="light">
+					
+					<p>Bán các loại sách trong và ngoài nước</p>
+					<p>Nhận order sách</p>
+				</div>
+				<div class="col-12">
+					<hr class="light-100">
+					<h5>&copy; Tiệm sách nhà Kus</h5>
+				</div>
+		</div>
+	</div>
+
+    </footer>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>	
+
+
+
+
+
+
+
+
+
+
+
