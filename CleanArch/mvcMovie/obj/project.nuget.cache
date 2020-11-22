@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UvRKk5aHJlBIfaFD1B/4BNnWP38hOggDQPizE9f7nBrhRKe9uj/MJryfDBFsK67pKI1cO5Yw341mwRKucDyqzg==",
+  "dgSpecHash": "6lKVYHuT9SgIEZGe3q0n/+2TCnV8cZ1miJVPOx1fKxd8yt0yFqUCzuGRtj8VXVZUQ10x/iGHSIILnvljagEpkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HiamKaito\\Downloads\\CleanArch\\mvcMovie\\mvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\mvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HiamKaito\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HiamKaito\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

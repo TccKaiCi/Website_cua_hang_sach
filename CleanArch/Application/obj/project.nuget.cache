@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OzYoRUs+xbY5Ju1fEpa251IN4Kna2V3uP6UWmuP2+4tf3TpT49iMz/YvtCMYi9XzLzBaQ9SHJNJhlKykmcDjTg==",
+  "dgSpecHash": "3cQq1oenc1R8flqfVDU/d+UkZ8xrQjnVQbaKceqIVTAFFzG9OlXJdsYeNk3HfLfVSt2G1IShovLzvzLFemrZsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HiamKaito\\Downloads\\CleanArch\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HiamKaito\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\HiamKaito\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",

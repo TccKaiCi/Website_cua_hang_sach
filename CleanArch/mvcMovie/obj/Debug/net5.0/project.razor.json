@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\mvcMovie.csproj",
+  "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\mvcMovie.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,52 +15603,52 @@
   "RootNamespace": "mvcMovie",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\Movie\\Index.cshtml",
-      "TargetPath": "Views\\Movie\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\Movie\\Create.cshtml",
-      "TargetPath": "Views\\Movie\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\Movie\\Edit.cshtml",
-      "TargetPath": "Views\\Movie\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\Movie\\Delete.cshtml",
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Delete.cshtml",
       "TargetPath": "Views\\Movie\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Edit.cshtml",
+      "TargetPath": "Views\\Movie\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\CNPM\\CleanArch\\mvcMovie\\Views\\Movie\\Details.cshtml",
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Index.cshtml",
+      "TargetPath": "Views\\Movie\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Create.cshtml",
+      "TargetPath": "Views\\Movie\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Details.cshtml",
       "TargetPath": "Views\\Movie\\Details.cshtml",
       "FileKind": "mvc"
     }

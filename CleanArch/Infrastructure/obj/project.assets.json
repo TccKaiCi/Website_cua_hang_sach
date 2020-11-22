@@ -551,11 +551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HiamKaito\\Downloads\\CleanArch\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\HiamKaito\\Downloads\\CleanArch\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\HiamKaito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HiamKaito\\Downloads\\CleanArch\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HiamKaito\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -572,8 +572,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\HiamKaito\\Downloads\\CleanArch\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\HiamKaito\\Downloads\\CleanArch\\Domain\\Domain.csproj"
+            "C:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\Domain\\Domain.csproj"
             }
           }
         }
