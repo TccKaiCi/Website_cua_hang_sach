@@ -15613,6 +15613,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\DangKy\\Index.cshtml",
+      "TargetPath": "Views\\DangKy\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15650,6 +15655,11 @@
     {
       "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Details.cshtml",
       "TargetPath": "Views\\Movie\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\DangNhap\\Index.cshtml",
+      "TargetPath": "Views\\DangNhap\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

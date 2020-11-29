@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Đăng ký tài khoản";
+}
+
+<main>
+            <div class="container">
+                <div class="register-form">
+                    <form action="" method="post">
+                        <h1>Đăng ký tài khoản mới</h1>
+                        <div class="input-box">
+
+                            <input type="text" placeholder="Nhập username">
+                        </div>
+                        <div class="input-box">
+
+                            <input type="password" placeholder="Nhập mật khẩu">
+                        </div>
+                        <div class="input-box">
+                            <div class="col-6">
+                                <label for="ngaysinh">Ngày sinh</label>
+                                <br>
+                                <input type="date" id="ngaysinh"/>
+                            </div>
+                            <div class="col-6">
+                                <label for="gioitinh">Giới tính</label>
+                                <br>
+                                <select id="gioitinh">
+                                    <option value="nam">Nam</option>
+                                    <option value="nu">Nữ</option>
+                                </select>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        
+                        
+                        <div class="btn-box">
+                            <button type="submit">
+                                Đăng ký
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </main>

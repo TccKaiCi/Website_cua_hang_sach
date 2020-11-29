@@ -289,3 +289,5 @@ C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\ne
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\ref\mvcMovie.dll
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.pdb
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.genruntimeconfig.cache
+C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\DangKy\Index.cshtml.g.cs
+C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\DangNhap\Index.cshtml.g.cs
