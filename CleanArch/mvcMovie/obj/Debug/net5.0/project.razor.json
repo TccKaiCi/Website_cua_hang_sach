@@ -15608,11 +15608,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Delete.cshtml",
-      "TargetPath": "Views\\Movie\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\DangKy\\Index.cshtml",
       "TargetPath": "Views\\DangKy\\Index.cshtml",
       "FileKind": "mvc"
@@ -15623,13 +15618,23 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Edit.cshtml",
-      "TargetPath": "Views\\Movie\\Edit.cshtml",
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\QLSP\\Details.cshtml",
+      "TargetPath": "Views\\QLSP\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\QLSP\\Create.cshtml",
+      "TargetPath": "Views\\QLSP\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\QLSP\\Index.cshtml",
+      "TargetPath": "Views\\QLSP\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15643,8 +15648,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Create.cshtml",
-      "TargetPath": "Views\\Movie\\Create.cshtml",
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\QLSP\\Delete.cshtml",
+      "TargetPath": "Views\\QLSP\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15655,6 +15660,11 @@
     {
       "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\Movie\\Details.cshtml",
       "TargetPath": "Views\\Movie\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HiamKaito\\Desktop\\Website_cua_hang_sach\\CleanArch\\mvcMovie\\Views\\QLSP\\Edit.cshtml",
+      "TargetPath": "Views\\QLSP\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {

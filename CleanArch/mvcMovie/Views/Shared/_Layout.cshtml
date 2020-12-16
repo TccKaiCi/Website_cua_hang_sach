@@ -34,17 +34,26 @@
 					<a class="nav-link active" asp-action="Index" asp-controller="Home">Trang chủ</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" asp-action="Index" asp-controller="Movie">Sách</a>
+					<a class="nav-link active" asp-action="Index" asp-controller="Movie">Sách</a>
 				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#">Giỏ hàng</a>
-				</li>
+
+				@if (!User.Identity.IsAuthenticated)
+					{
+						<li class="nav-item">
+							<a class="nav-link active" asp-action="Index" asp-controller="QLSP">QL_San Pham</a>
+						</li>
+					}
+					else
+					{
+						
+					}
 				<li class="nav-item">
 					<a class="nav-link active" asp-action="Index" asp-controller="DangKy">Đăng ký</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link active" asp-action="Index" asp-controller="DangNhap">Đăng nhập</a>
 				</li>
+
 			</ul>
 		</div>
 	</div>

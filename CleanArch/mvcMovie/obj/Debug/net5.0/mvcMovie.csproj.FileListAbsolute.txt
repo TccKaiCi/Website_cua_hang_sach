@@ -272,10 +272,7 @@ C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\ne
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.TagHelpers.output.cache
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.RazorCoreGenerate.cache
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Create.cshtml.g.cs
-C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Delete.cshtml.g.cs
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Details.cshtml.g.cs
-C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Edit.cshtml.g.cs
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Movie\Index.cshtml.g.cs
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -291,3 +288,8 @@ C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\ne
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\mvcMovie.genruntimeconfig.cache
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\DangKy\Index.cshtml.g.cs
 C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\DangNhap\Index.cshtml.g.cs
+C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\QLSP\Create.cshtml.g.cs
+C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\QLSP\Delete.cshtml.g.cs
+C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\QLSP\Edit.cshtml.g.cs
+C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\QLSP\Index.cshtml.g.cs
+C:\Users\HiamKaito\Desktop\Website_cua_hang_sach\CleanArch\mvcMovie\obj\Debug\net5.0\Razor\Views\QLSP\Details.cshtml.g.cs

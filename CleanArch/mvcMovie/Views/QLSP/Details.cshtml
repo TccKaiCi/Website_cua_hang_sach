@@ -1,0 +1,28 @@
+@model MovieDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Thông tin chi tiết sách</h1>
+
+<div>
+    <hr/>
+    <dl class="row">
+        <dt class="col-sm-2">Tên sách</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => Model.Title)</dd>
+        <dt class="col-sm-2">Ngày xuất bản</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => Model.ReleaseDate)</dd>
+        <dt class="col-sm-2">Thể loại</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => Model.Genre)</dd>
+        <dt class="col-sm-2">Giá</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => Model.Price)</dd>
+        <dt class="col-sm-2">Ảnh</dt>
+        <dd class="col-sm-10"></dd>
+        <img class="gif" src="~/images/@Html.DisplayFor(model => Model.Rating)" width="250" height="250">
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to list</a>
+</div>

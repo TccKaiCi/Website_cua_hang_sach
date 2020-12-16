@@ -9,8 +9,6 @@
     var priceSort = (Model.SortOrder == "price_desc") ? "price" : "price_desc";
 }
 
-<h1>Index</h1>
-
 <form method="GET">
     <p>
         <select asp-for="MovieGenre" asp-items="Model.Genres">
@@ -21,33 +19,29 @@
     </p>
 </form>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-
 <table class="table">
     <thead>
         <tr>
             <th><a  asp-route-sortOrder="@titleSort"
                     asp-route-movieGenre="@Model.MovieGenre"
                     asp-route-searchString="@Model.SearchString">
-                @Html.DisplayNameFor(model => model.Movies[0].Title)</a></th>
+                Ảnh</a></th>
+            <th><a  asp-route-sortOrder="@titleSort"
+                    asp-route-movieGenre="@Model.MovieGenre"
+                    asp-route-searchString="@Model.SearchString">
+                Tên sách</a></th>
             <th><a  asp-route-sortOrder="@releaseDateSort"
                     asp-route-movieGenre="@Model.MovieGenre"
                     asp-route-searchString="@Model.SearchString">
-                @Html.DisplayNameFor(model => model.Movies[0].ReleaseDate)</a></th>
+                Ngày đăng</a></th>
             <th><a  asp-route-sortOrder="@genreSort"
                     asp-route-movieGenre="@Model.MovieGenre"
                     asp-route-searchString="@Model.SearchString">
-                @Html.DisplayNameFor(model => model.Movies[0].Genre)</a></th>
-            <th><a  asp-route-sortOrder="@ratingSort"
-                    asp-route-movieGenre="@Model.MovieGenre"
-                    asp-route-searchString="@Model.SearchString">
-                @Html.DisplayNameFor(model => model.Movies[0].Rating)</a></th>
+                Thể loại</a></th>
             <th><a  asp-route-sortOrder="@priceSort"
                     asp-route-movieGenre="@Model.MovieGenre"
                     asp-route-searchString="@Model.SearchString">
-                @Html.DisplayNameFor(model => model.Movies[0].Price)</a></th>
+                Giá</a></th>
             <th></th>
         </tr>
     </thead>
@@ -55,16 +49,16 @@
     @foreach (var movie in Model.Movies)
     {
         <tr>
-            <td>@movie.Title</td>
+            <td>
+				<img class="gif" src="~/images/@Html.DisplayFor(item => movie.Rating)" width="100" height="100">
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@movie.Id">@movie.Title</a> 
+            </td>
             <td>@Html.DisplayFor(item => movie.ReleaseDate)</td>
             <td>@movie.Genre</td>
-            <td>@Html.DisplayFor(item => movie.Rating)</td>
             <td>@Html.DisplayFor(item => movie.Price)</td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@movie.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@movie.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@movie.Id">Delete</a>
-            </td>
+            
         </tr>
     }
     </tbody>
