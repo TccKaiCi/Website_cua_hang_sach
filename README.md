@@ -9,7 +9,7 @@ Vì nhóm làm việc, tương tác chủ yếu trên Google Drive, messenger: [
 | MSSV | Họ và Tên  | Phần trăm việc làm |
 |------| ----- | ----- |
 | 3118410043 | Tăng Chí Chung | 27% |
-| 3118410288 | Nguyễn Di Nguy | 12% |
+| 3118410288 | Nguyễn Di Nguy | 13% |
 | 3118410187 | Phạm Hồng Khanh | 21% |
-| 3118410081 | Lê Hoàng An Đình | 23% |
+| 3118410081 | Lê Hoàng An Đình | 22% |
 | 3118410437 | Lê Quốc Toàn | 17% |
