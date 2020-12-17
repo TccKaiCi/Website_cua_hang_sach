@@ -1,4 +1,4 @@
-# Phần mềm Quản lý cửa hàng Giày
+# Phần mềm Quản lý cửa hàng Sách
 Website của hàng sách làm bằng ngôn ngữ C# là chủ yếu
 Vì nhóm làm việc, tương tác chủ yếu trên Google Drive, messenger: [GoogleDrive](https://drive.google.com/drive/folders/1vvz9P9udg8KPA8Bxdtn5ZZ6-28FrQ7lK?usp=sharing)
 <br><br><br>
